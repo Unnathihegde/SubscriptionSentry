@@ -8,7 +8,7 @@ import java.sql.SQLException;
 public class DBConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/subscriptionsentry_db";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "MySQL@2025";
+    private static final String PASSWORD = "Your_passward of sql";
 
     public DBConnection() {
     }
