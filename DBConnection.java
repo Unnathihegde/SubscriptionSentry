@@ -14,7 +14,7 @@ public class DBConnection {
     }
 
     public static Connection getConnection() throws SQLException {
-        return DriverManager.getConnection("jdbc:mysql://localhost:3306/subscriptionsentry_db", "root", "MySQL@2025");
+        return DriverManager.getConnection("jdbc:mysql://localhost:3306/subscriptionsentry_db", "root", "Your_passward");
     }
 
     static {
