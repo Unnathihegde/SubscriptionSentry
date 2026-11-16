@@ -248,6 +248,6 @@ BMS Institute of Technology and Management
 
 ---
 
-## 📝 License
+##  License
 
 This project is developed for educational and academic purposes.
